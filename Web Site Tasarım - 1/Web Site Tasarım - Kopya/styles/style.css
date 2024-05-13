@@ -1,0 +1,22 @@
+.yaziStili {
+font-style: italic;
+}
+.yaziBoyutu {
+    font-size: 25px;
+}
+
+.yaziBoyutu2 {
+    font-size: 25px;
+    margin-left: 25px;
+}
+.card-group {
+    display: flex;
+}
+.card-img-top{
+  width: 100px;
+  height: 500px;
+  margin-left: 22px;
+}
+.card-title{
+    margin-left: 110px;
+}
